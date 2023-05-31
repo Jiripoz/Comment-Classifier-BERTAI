@@ -1,0 +1,5 @@
+.vscode/
+logs/
+sentiment/
+sentiment-gcp/
+src/__pycache__/

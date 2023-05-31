@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "alan-soul-ia-project",
+  "private_key_id": "e577909d27aacf77e4c6b2a7e7418df7f1af75e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5TMQtxkKazfx/\ncXkC7xANivPSxbn+NktgQnhLzqtINFbPruNCCa0c4xBUgxTdL09+o3qwszqxsgG0\nAKVW61BkMBs2E9aiUAZgywfjZTwSMhGUbgcyEGgHM5axpxuASWfbul2Yx19Bwd+f\ngqz6JsFUH0dziPNWckJSo5SyqWnKNcbdZ1EPX/uAHT/A8CdfQKoTK+8KPNj7kDIV\nl9RnWrwucCSXoTx1o8+ZosuF7HDMlqEzu3Dm8UmkrQAivySDny90mA9FL7i54TWm\n7HBydIFjiiTXm7DqocDFAwf5Wpjyjdyw4n3x7kKJjBAr/WMogI98ZXaPBFVt29V3\nCXSqjh7tAgMBAAECggEABRcuFj6y0XEN0OMN30vC3v6o9iGHCUL2BAKK5X2t2qYY\n4HCZrNSe75U5VukG+dm+Kp95HUFRiVR3k8vwLJixffqM665m+9EetOEsvCjy0NAC\ndaC4w1AMW5Lch/UsS8/KuxB06qjZy4MZjp/W1h/jS33mxwnp+yz9Qb1dkbOEVzWZ\nBdCEzv1e00iiuFQoaYF61CPk+rbkmapqRrz6S0lATTAUNbs+CqxRyEJNIHui1Q7g\nf9DlR61oUPh0iblVjM3NTCncqSDb0G4EuMqULCF54IrcuuSRfLZJ3i8pckSdNx+X\nmw95aXQG3PZkE5MpiknA/+khVJ207d9a/EXYnOzKYQKBgQDihqjxydCfDt7WMyic\niffcI68Homj58vr69feBj7tFXcZgCpnUsC2EmTYFXiD/85idqPwdg7rYHkA9ZVS+\nwmuPXX69O0GwF5muTi2TpWR3sm59sdLwHsPVnwHZYpTtH3Im17JWa5HiGN1b/w/V\nw49g/5FzzFP09W9h57VMqzKD2QKBgQDRaOhKQdE9rWKHErj+pIJDDRo6f8tbKnEb\nlAB1at9yUxO5ClBW8bZqhp5XyXnsC+qtn2PIjPBI2JoBgDD0ff+CURwBpI6Sk5jM\nWvpSnWsov0hc5i7+UvUYEt2qx7eLzwMcEf27c6GT1Sc2i/o2Bs/t9iMS540TxNHP\nsJq9EFKLNQKBgERISSbRKdS4W81/kE9Xe2JdU0Ze23v0lVkOybPBSrcHJGQQ7fvh\nu2bL9C+8BwCAQlHL/Ws8KRc6TyzynY/+9QM7MJgEA7H7+zRClpR594XpQEsdTjNZ\nYrjC/IC1qaSspPE2dah9NnVL/3XatcA++bpIb2TTg79EOHXvrYPV2x1JAoGBAJaR\nicQqwtpIGrnoOl/NxWOUvjElxgAM6jrcFeBXMcav+VRpGA8LyQ+bL6sLUMDqaJji\nLAr9W5/lLga6N3j0R41Z6Hs96M13lrwJBkf0rCImN0+kqlFvMI9YsU2kQFMkS6YZ\nQYlQwPLcpk9QIl5KU6NUATAMkaGPORTOdNRQMimpAoGAOPUKq4tXSbt5/z5drkqM\nlGbEFtJXdvwzVPeN9ewwM7/a8+rSIGfxkggesDNDNz2yBSv+GS2ulTYNByN3a7jU\nmCwanb/c6m/YDSo3YWn+v03kcdmR3gVbuoBTk8w7dLk2Dcs/K2wH5+cF5cMDg5re\nEsSuU5sf6fq6OwIr0Tulhww=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soulproject-downloader@alan-soul-ia-project.iam.gserviceaccount.com",
+  "client_id": "113548317141961634340",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soulproject-downloader%40alan-soul-ia-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
