@@ -6,7 +6,7 @@ tokenizer = AutoTokenizer.from_pretrained(
     "neuralmind/bert-base-portuguese-cased", do_lower_case=False, model_max_length=512
 )
 
-loaded_model = TFAutoModelForSequenceClassification.from_pretrained("./sentiment")
+loaded_model = TFAutoModelForSequenceClassification.from_pretrained("./sentiment-gcp")
 
 # Caso queira testar outras sentenças, por favor não utilize caracteres especiais.
 test_sentence = "otimo produto reconmendo a todods que quiserem comprar , entrega rapida pela americanas"
